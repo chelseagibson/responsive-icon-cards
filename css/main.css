@@ -37,3 +37,14 @@ body {
   font-weight: normal;
   padding-top: .86em;
 }
+
+.card-img img {
+  max-width: 50px;
+  margin: auto;
+  display: block;
+}
+
+.card-body p {
+  margin-top: 0;
+  margin-bottom: 1.33em;
+}
