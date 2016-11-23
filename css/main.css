@@ -96,4 +96,21 @@ body {
     margin: 0 0 1.4rem;
   }
 
+  .card {
+    display: inline-block;
+  }
+
+  .card-img {
+    display: block;
+    margin: auto;
+    padding-bottom: 1.5em;
+  }
+
+  .card-body {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+  }
+
 }
